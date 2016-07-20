@@ -1,0 +1,10 @@
+framework module TestBase {
+  umbrella header "TestBase.h"
+
+  export *
+  module * { export * }
+}
+
+module TestBase.Swift {
+    header "TestBase-Swift.h"
+}

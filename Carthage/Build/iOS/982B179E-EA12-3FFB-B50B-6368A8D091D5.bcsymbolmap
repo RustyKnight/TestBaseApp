@@ -1,0 +1,45 @@
+BCSymbolMap Version: 2.0
+_rt_swift_allocObject
+_rt_swift_getExistentialTypeMetadata
+_rt_swift_getInitializedObjCClass
+_rt_swift_slowAlloc
+_rt_swift_slowDealloc
+__TMLGCs23_ContiguousArrayStorageP__
+__TMLP_
+__TMfC8TestBase8BaseTest
+__swift_FORCE_LOAD_$_swiftUIKit_$_TestBase
+__swift_FORCE_LOAD_$_swiftCoreImage_$_TestBase
+__swift_FORCE_LOAD_$_swiftDarwin_$_TestBase
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_TestBase
+__swift_FORCE_LOAD_$_swiftDispatch_$_TestBase
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_TestBase
+__swift_FORCE_LOAD_$_swiftFoundation_$_TestBase
+__swift_FORCE_LOAD_$_swiftCoreMedia_$_TestBase
+__swift_FORCE_LOAD_$_swiftCoreAudio_$_TestBase
+_objc_classes
+Apple LLVM version 8.0.0 (clang-800.0.31)
+-emit-bc /Users/shane/development/xcode/Test/TestBase/TestBaseApp/Carthage/Checkouts/TestBase/TestBase/Test.swift -target arm64-apple-ios10.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode-beta.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk -I /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Products/Release-iphoneos -F /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/shane/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/TestBase-generated-files.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/TestBase-own-target-headers.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/TestBase-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/TestBase-project-headers.hmap -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Products/Release-iphoneos/include -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/DerivedSources/arm64 -Xcc -I/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/shane/development/xcode/Test/TestBase/TestBaseApp/Carthage/Checkouts/TestBase -emit-module-doc-path /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/TestBase.swiftdoc -O -parse-as-library -module-name TestBase -emit-module-path /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/TestBase.swiftmodule -emit-objc-header-path /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/TestBase-Swift.h -serialize-diagnostics-path /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/Test.dia -emit-dependencies-path /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/Test.d -num-threads 2 -o /Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/Objects-normal/arm64/Test.bc -resource-dir /Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/shane/development/xcode/Test/TestBase/TestBaseApp/Carthage/Checkouts/TestBase
+Apple Swift version 3.0 (swiftlang-800.0.33.1 clang-800.0.31)
+/Users/shane/development/xcode/Test/TestBase/TestBaseApp/Carthage/Checkouts/TestBase/TestBase/Test.swift
+get_field_types_BaseTest
+Test.swift
+/Users/shane/development/xcode/Test/TestBase/TestBaseApp/Carthage/Checkouts/TestBase/TestBase
+deinit
+sayHello
+_TTSg5P____TFs27_allocateUninitializedArrayurFBwTGSax_Bp_
+_TTSg5P____TZFSa13_adoptStoragefTPs9AnyObject_5countSi_TGSax_GSpx__
+_TTSg5P____TFVs22_ContiguousArrayBufferg19firstElementAddressGSpx_
+_TTSg5Vs10_ArrayBody_P____TFVs20ManagedBufferPointerg15_elementPointerGSpq__
+_TTSg5P____TFVs22_ContiguousArrayBufferCfT5countSi7storageGCs23_ContiguousArrayStoragex__GS_x_
+_TTSg5P____TFVs22_ContiguousArrayBuffer18_initStorageHeaderfT5countSi8capacitySi_T_
+_TTSgq5Vs10_ArrayBody___TFSp10initializefT4withx5countSi_T_
+_TTSg5Vs10_ArrayBody_P____TFVs20ManagedBufferPointerg13_valuePointerGSpx_
+_TTSg5Vs10_ArrayBody_P____TFVs20ManagedBufferPointerg8_addressGSPVs5UInt8_
+_TTSg5Vs10_ArrayBody_P____TFVs20ManagedBufferPointerCfT21_uncheckedBufferClassPMPs9AnyObject_15minimumCapacitySi_GS_xq__
+_TMaGCs23_ContiguousArrayStorageP__
+_TMaP_
+_TMaC8TestBase8BaseTest
+init
+/Users/shane/Library/Developer/Xcode/DerivedData/TestBase-bibsevmvgaibcwezaajqazcflqee/Build/Intermediates/TestBase.build/Release-iphoneos/TestBase.build/DerivedSources/TestBase_vers.c
